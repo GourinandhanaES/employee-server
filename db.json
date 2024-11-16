@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "name": "jomol a j",
+      "email": "abc@gmail.com",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "name": "Gourinandhana E S",
+      "email": "gourinandhana0328@gmail.com",
+      "status": "inactive",
+      "id": 2
+    },
+    {
+      "name": "ayisha",
+      "email": "ayisha@gmail.com",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "name": "hussain",
+      "email": "sdd@gmail.com",
+      "status": "active",
+      "id": 4
+    },
+    {
+      "name": "evin",
+      "email": "evin@gmail.com",
+      "status": "active",
+      "id": 5
+    },
+    {
+      "name": "abel",
+      "email": "abel@gmail.com",
+      "status": "inactive",
+      "id": 6
+    },
+    {
+      "name": "alan yuye",
+      "email": "abc@gmail.com",
+      "status": "active",
+      "id": 7
+    }
+  ]
+}
